@@ -1,2 +1,3 @@
 # ntt-spck
-ok
+U should watch Made in Abyss bro
+
