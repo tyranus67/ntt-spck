@@ -1,0 +1,132 @@
+{
+    "popular-movies": [
+            {
+                "id": 1,
+                "title": "KonoSuba: God's Blessing on This Wonderful World!",
+                "description": "Kazuma and his chaotic crew, led by a useless goddess, dive into a fantasy world full of laughs and epic fails. Pure isekai hilarity!",
+                "image_url": "./assets/konosuba-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 2,
+                "title": "No Game No Life",
+                "description": "Sora and Shiro, gaming prodigies, get isekai’d to a world where games rule. Outsmarting everyone with style and sass, they’re unbeatable!",
+                "image_url": "./assets/ngnl-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 3,
+                "title": "Another",
+                "description": "A creepy school mystery where death lurks around every corner. Mei Misaki and her cursed class will keep you on edge in this horror gem!",
+                "image_url": "./assets/another-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 4,
+                "title": "The Disastrous Life of Saiki K.",
+                "description": "Saiki’s psychic powers make his life a comedy disaster. All he wants is peace, but his wacky friends say nope! Hilarious from start to finish.",
+                "image_url": "./assets/saiki-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 5,
+                "title": "That Time I Got Reincarnated as a Slime",
+                "description": "Rimuru, a slime with god-tier powers, builds a monster utopia in an isekai world. It’s wholesome, funny, and packed with epic battles!",
+                "image_url": "./assets/tensura-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 6,
+                "title": "Gintama",
+                "description": "Gintoki’s samurai life in alien-infested Japan is a wild ride of parodies, action, and absurd humor. Nothing’s off-limits in this comedy masterpiece!",
+                "image_url": "./assets/gintama-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 7,
+                "title": "Re:zero",
+                "description": "Subaru Natsuki was just trying to get to the convenience store but wound up summoned to another world. He encounters the usual things--life-threatening situations, silver haired beauties, cat fairies--you know, normal stuff. All that would be bad enough, but he's also gained the most inconvenient magical ability of all--time travel, but he's got to die to use it. How do you repay someone who saved your life when all you can do is die?",
+                "image_url": "./assets/rezero-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 8,
+                "title": "Jujutsu Kaisen( thầy cúng báo đời)",
+                "description": "Nơi thầy cúng choảng nhau",
+                "image_url": "./assets/jjk-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 9,
+                "title": "Movie of century(Bom tấn thế kỷ 21)",
+                "description": "Hitler và những người bạn",
+                "image_url": "./assets/gersp-poster.jpg",
+                "category": "popular-movies"
+            }
+    ], 
+    "trending-movies": [
+            {
+                "id": 1,
+                "title": "KonoSuba: God's Blessing on This Wonderful World!",
+                "description": "Kazuma và mấy con báo!",
+                "image_url": "./assets/konosuba-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 2,
+                "title": "No Game No Life",
+                "description": "Hành trình của 2 tên neet=))!",
+                "image_url": "./assets/ngnl-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 3,
+                "title": "Another",
+                "description": "Cốt truyện ok, mà có mấy cái chết xàm vk!",
+                "image_url": "./assets/another-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 4,
+                "title": "The Disastrous Life of Saiki K.",
+                "description": "Cuột sống thường ngày của thánh hề Saiki K.",
+                "image_url": "./assets/saiki-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 5,
+                "title": "That Time I Got Reincarnated as a Slime",
+                "description": "Mì ăn liên (B+)",
+                "image_url": "./assets/tensura-poster.jpg",
+                "category": "trending-movies"
+            },
+            {
+                "id": 6,
+                "title": "Gintama",
+                "description": "Hài vl",
+                "image_url": "./assets/gintama-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 7,
+                "title": "Re:zero",
+                "description": "Nếu bạn là 1 thg máu M thì khuyến khích coi",
+                "image_url": "./assets/rezero-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 8,
+                "title": "Jujutsu Kaisen( thầy cúng báo đời)",
+                "description": "Nơi thầy cúng choảng nhau",
+                "image_url": "./assets/jjk-poster.jpg",
+                "category": "popular-movies"
+            },
+            {
+                "id": 9,
+                "title": "Movie of century(Bom tấn thế kỷ 21)",
+                "description": "Hitler và những người bạn",
+                "image_url": "./assets/gersp-poster.jpg",
+                "category": "popular-movies"
+            }
+        ]
+}
